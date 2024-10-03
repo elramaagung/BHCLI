@@ -2381,7 +2381,7 @@ fn dantca_help(tx: &crossbeam_channel::Sender<PostType>, from: &str) {
     [color=#00FF00]reportdan![/color] = for report kicked user
     [color=#00FF00]/public askdan-?[/color] = ask dantca bot for something but public
     [color=#00FF00]/pm askdan-?[/color] = ask dantca bot for something but pm
-    [color=#00FF00]/members askdan-?[/color] = ask dantca bot for something but members
+    [color=#00FF00]askdan-? /members[/color] = ask dantca bot for something but members
     [color=#00FF00]danhelp![/color] = for guest
     without (-)
     ", from);
